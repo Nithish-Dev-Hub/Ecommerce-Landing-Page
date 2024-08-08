@@ -26,8 +26,7 @@ Welcome to the Nuxt Ecommerce Site repository! This project is a modern, sleek e
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/nuxt-ecommerce-site.git
-    cd nuxt-ecommerce-site
+    git clone https://github.com/Nithish0120/Ecommerce-Landing-Page.git
     ```
 
 2. **Install dependencies:**
